@@ -3,5 +3,10 @@
         "title": "Markdown教程",
         "time": "2021-02-23",
         "file": "posts/1.md"
+    },
+    {
+        "title": "关于我scratch，mc，建站的那些事",
+        "time": "2021-02-24",
+        "file": "posts/2.md"
     }
 ]
