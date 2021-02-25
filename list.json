@@ -13,5 +13,10 @@
         "title": "日记，不定时更新微不足道的小事",
         "time": "2021-02-24",
         "file": "posts/diary.md"
+    },
+    {
+        "title": "关于",
+        "time": "2021-02-25",
+        "file": "posts/about.md"
     }
 ]
