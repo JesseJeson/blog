@@ -13,3 +13,12 @@ akkariin大佬创建的图床，必须注册，最大16mb
 链接：https://imgurl.org/
 
 测试：![](https://ftp.bmp.ovh/imgs/2021/02/7bf86a9cd09be2fd.jpg)
+
+## 3.聚合图床
+聚合了多个图床
+
+链接:https://www.superbed.cn/
+
+测试：![](https://img.imgdb.cn/item/6038a1885f4313ce250d333a.jpg)
+
+### jsdeliver官方不同意图床，所以说就先不推荐了
