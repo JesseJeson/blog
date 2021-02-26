@@ -4,4 +4,12 @@ akkariin大佬创建的图床，必须注册，最大16mb
 
 链接：https://img.zerodream.net/
 
-测试：![img](https://i.zerodream.net/cb1d9a397bf86a9cd09be2fd9d6e4c5c.jpg)
+测试：
+![img](https://i.zerodream.net/cb1d9a397bf86a9cd09be2fd9d6e4c5c.jpg)
+
+## 2.imgurl
+2017开始，由个人开发的图床
+
+链接：https://imgurl.org/
+
+测试：![](https://ftp.bmp.ovh/imgs/2021/02/7bf86a9cd09be2fd.jpg)
