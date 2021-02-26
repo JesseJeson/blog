@@ -5,3 +5,5 @@
 | [OkYes! 技术博客](https://2890.ltd/) | Given | 念念不忘，必有回响 |
 | [freejishu的美丽世界](http://www.freejishu.com/) | freejisu  |  Code · Thinking · ACG |
 | [TH的世界](https://www.thbk.cool/) | TH同学 | 诗酒趁年华，愿青春无悔。 |
+
+有要申请友链的请看这里：
