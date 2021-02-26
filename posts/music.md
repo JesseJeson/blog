@@ -2,3 +2,4 @@
 | 歌名 | 链接 |
 | ---- | ---- |
 | Life Is Beautiful | [网易云](https://music.163.com/song?id=3558691) |
+| Try Everything | [网易云](https://music.163.com/#/song?id=41554868)|
