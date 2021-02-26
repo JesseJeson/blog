@@ -8,8 +8,12 @@
 
 有要申请友链的请看这里：
 
+```php
 站点名称:histcat blog
+```
 链接 :<https://blog.histcat.workers.dev/>
+```php
 简介 :一只想让自己变得更好的咸鱼
+```
 头像 :<https://i.zerodream.net/7491eded26ea6ab673eae8459899a4ba.jpeg>
 
